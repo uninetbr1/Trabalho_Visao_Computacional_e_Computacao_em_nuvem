@@ -130,33 +130,30 @@ Pass Completion %
 Target
 Goal Contribution
 
-Modelo 2 — Shots on Target
+Modelo 2 — Shoot on Target
 Objetivo:
 Analisar a capacidade ofensiva e agressividade de finalização dos jogadores.
 
 Features utilizadas
-Minutes
-Goals
-Assists
+Goals,
+Expected Goals (xG),
+Total Shoot,
+Shot-Creating Actions,
+Goal-Creating Actions,
+Successful Dribbles,
 Touches
-Passes Completed
-Pass Completion %
-Target
-Shots on Target
 
-Modelo 3 — Interceptions
+Modelo 3 — Tackles
 Objetivo:
 Analisar padrões defensivos e capacidade de recuperação de posse de bola.
 
 Features utilizadas
-Minutes
-Touches
-Passes Completed
-Pass Completion %
-Blocks
-Tackles
-Target
-Interceptions
+Blocks,
+Minutes,
+Touches,
+Passes Completed,
+Progressive Carries,
+Yellow Cards
 
 7. Algoritmo Utilizado
 
