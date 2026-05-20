@@ -49,8 +49,7 @@ Idade: Idade do jogador
 Minutos: Total de minutos jogados
 Gols: Número de gols marcados
 Assistências: Número de assistências
-Pênaltis a Gol: Pênaltis cobrados a gol Pênaltis: Total de pênaltis cobrados Total de Chutes
-: Total de chutes a gol
+Pênaltis a Gol: Pênaltis cobrados a gol Pênaltis: Total de pênaltis cobrados Total de Chutes: Total de chutes a gol
 Chutes no Alvo: Chutes a gol Cartões Amarelos: Número de cartões amarelos recebidos Cartões Vermelhos: Número de cartões vermelhos recebidos
 Toques na Bola : Total de toques na bola Dribles: Total de dribles tentados Desarmes: Total de desarmes realizados Bloqueios: 
 Total de bloqueios Gols Esperados (xG): Gols esperados, calculados com base nas posições de chute e na probabilidade de marcar 
